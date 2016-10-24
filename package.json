@@ -1,7 +1,7 @@
 {
   "name": "ng2-breadcrumb",
   "main": "ng2-bootstrap.js",
-  "version": "0.0.1",
+  "version": "0.4.1",
   "description": "A component that creates a breadcrumb trail for router paths",
   "scripts": {
     "start": "tsc && concurrently \"npm run tsc\" \"npm run lite\" ",
