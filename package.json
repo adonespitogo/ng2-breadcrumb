@@ -1,7 +1,5 @@
 {
-  "name": "@ng2-breadcrumb/ng2-breadcrumb",
-  "module": "index.js",
-  "typings": "ng2-breadcrumb.ts",
+  "name": "ng2-breadcrumb",
   "main": "ng2-bootstrap.js",
   "version": "0.0.1",
   "description": "A component that creates a breadcrumb trail for router paths",
